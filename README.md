@@ -1,1 +1,1 @@
-# HINA IS ALWAYS WATCHING YOU
+# The server is now ready to launch
